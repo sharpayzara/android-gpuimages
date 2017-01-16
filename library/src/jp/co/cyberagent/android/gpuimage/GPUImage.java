@@ -49,6 +49,7 @@ import java.util.concurrent.Semaphore;
  * tasks through a simple interface.
  */
 public class GPUImage {
+
     private final Context mContext;
     private final GPUImageRenderer mRenderer;
     private GLSurfaceView mGlSurfaceView;
